@@ -4,11 +4,11 @@ To run this code you will need to install the following things with the specific
 
 A fresh Anaconda install with the latest version must be completed. A new conda virtual environment must be created with the following packages.
 
-Python      ==> 3.6
-mne         ==> 0.8
-numpy       ==> 1.16.2
-matplotlib  ==? 2.2.3
-tensorflow  ==> 1.13.1
-keras       ==> 2.2.4
+Python      ==> 3.6 <br>
+mne         ==> 0.8 <br>
+numpy       ==> 1.16.2 <br>
+matplotlib  ==> 2.2.3 <br>
+tensorflow  ==> 1.13.1 <br>
+keras       ==> 2.2.4 <br>
 
 Intel Math Kernel Library was used for GPU acceleration. Nvidia GPUs should also get the job done with the right drivers.
